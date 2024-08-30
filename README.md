@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Olá, Prazer Elci Flôres!😁</h1>
+<h2 align="center">Olá, Prazer Elci Flôres!😁</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="center">Dashboard 📊📊📊</h3>
+<h2 align="center">Dashboard 📊📊📊</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="center">Visitas No Perfil <br>👁👁</h3>
+<h2 align="center">Visitas No Perfil <br>👁👁</h2>
 
 ###
 
@@ -48,9 +48,11 @@
 
 ###
 
-<h3 align="left">Jogo da Cobrinha:  🐍🐍🐍</h3>
+<h2 align="left">Jogo da Cobrinha:  🐍🐍🐍</h2>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ElciDataScientist/ElciDataScientist/output/snake.svg" alt="Snake animation" />
 
