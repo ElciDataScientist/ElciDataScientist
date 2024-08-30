@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="center">Olá, Prazer Elci Flôres!😁</h2>
 
 ###
@@ -40,20 +38,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/ElciDataScientist/count.svg?"  />
 </div>
-
-###
-
-<h2 align="left">Jogo da Cobrinha:  🐍🐍🐍</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ElciDataScientist/ElciDataScientist/output/snake.svg" alt="Snake animation" />
 
 ###
