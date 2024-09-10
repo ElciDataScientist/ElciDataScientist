@@ -27,14 +27,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElciDataScientist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElciDataScientist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas%202024" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElciDataScientist&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ElciDataScientist&locale=pt-br&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ElciDataScientist&locale=pt-br&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<h2 align="center">Visitas No Perfil<br>👁👁</h2>
+<h2 align="center">Visitas No Perfil</h2>
+
+###
+
+<h2 align="center">👁👁</h2>
 
 ###
 
