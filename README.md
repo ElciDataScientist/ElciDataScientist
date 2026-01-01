@@ -1,49 +1,73 @@
-<h1 align="center">Olá, Prazer Elci Flôres!😁</h1>
+<h1 align="center">Elci Flôres</h1>
+<h3 align="center">Analista de Dados Júnior | Business Intelligence</h3>
 
-###
+<p align="center">
+Transformo dados em insights para apoiar a tomada de decisão, utilizando SQL, Python, Power BI e Excel.
+</p>
 
-<h2 align="left">Techs: 🤖🤖🤖</h2>
+---
 
-###
+<h2>Sobre mim</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+<p>
+Sou Analista de Dados Júnior, com formação em Ciência de Dados e foco em análise exploratória,
+dashboards de KPIs e automação de relatórios. Tenho perfil analítico, disciplinado e orientado a resultados,
+com experiência em ambientes financeiro, operacional e industrial.
+</p>
 
-###
+---
 
-<h2 align="center">Dashboard 📊📊📊</h2>
+<h2>🧠 Tecnologias & Ferramentas</h2>
 
-###
+<ul>
+  <li><strong>Python:</strong> Pandas, NumPy, análise exploratória de dados (EDA)</li>
+  <li><strong>SQL:</strong> consultas, joins, agregações e indicadores</li>
+  <li><strong>Power BI:</strong> dashboards, KPIs e medidas DAX</li>
+  <li><strong>Excel:</strong> análise e apoio a relatórios</li>
+  <li><strong>Ferramentas:</strong> Jupyter, VS Code, Git, GitHub</li>
+</ul>
+
+---
+
+<h2>📊 Projetos em Destaque</h2>
+
+<h3>📌 Dashboard de Indicadores (Power BI)</h3>
+<p>
+Criação de dashboard interativo para acompanhamento de KPIs operacionais e gerenciais.
+<br/>
+<strong>Tech:</strong> Power BI, DAX
+</p>
+
+<h3>📌 Análise Exploratória de Dados (Python)</h3>
+<p>
+Exploração de dataset para identificação de padrões, outliers e insights acionáveis.
+<br/>
+<strong>Tech:</strong> Python, Pandas, Matplotlib
+</p>
+
+<h3>📌 Consultas SQL para Análise de Dados</h3>
+<p>
+Extração e consolidação de dados utilizando joins, filtros e agregações.
+<br/>
+<strong>Tech:</strong> SQL
+</p>
+
+<p><em>(Os repositórios dos projetos estão sendo organizados e documentados)</em></p>
+
+---
+
+<h2>📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElciDataScientist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas%202024" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElciDataScientist&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ElciDataScientist&locale=pt-br&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElciDataScientist&show_icons=true&theme=highcontrast&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElciDataScientist&layout=compact&theme=highcontrast&hide_border=true" height="150"/>
 </div>
 
-###
+---
 
-<h2 align="center">Visitas No Perfil</h2>
+<h2>📫 Contato</h2>
 
-###
-
-<h2 align="center">👁👁</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ElciDataScientist/count.svg?"  />
-</div>
-
-###
+<ul>
+  <li>LinkedIn: <a href="https://linkedin.com/in/elci-flores">linkedin.com/in/elci-flores</a></li>
+  <li>Email: elcijair2019@hotmail.com</li>
+</ul>
