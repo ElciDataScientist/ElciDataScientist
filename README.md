@@ -21,7 +21,7 @@ Tenho forte base em Python e SQL, além de experiência na criação de dashboar
 <h2>🛠️ Tecnologias & Ferramentas</h2>
 
 <ul>
-  <li><strong>Python:</strong> Pandas, NumPy, análise exploratória (EDA)</li>
+  <li><strong>Python:</strong> Pandas, NumPy, análise exploratória de dados (EDA)</li>
   <li><strong>SQL:</strong> consultas, joins, agregações, KPIs</li>
   <li><strong>Power BI:</strong> dashboards, KPIs, DAX</li>
   <li><strong>Excel:</strong> análise e apoio a relatórios</li>
@@ -53,27 +53,21 @@ Extração, organização e consolidação de dados para análises e relatórios
 
 ---
 
-<h2 align="center">📊 Dashboard Interativo</h2>
+<h2 align="center">📊 Dashboard – Maiores Empresas do Brasil</h2>
 
 <p align="center">
-  <a href="SEU_LINK_DASHBOARD" target="_blank">
-    <img 
-      alt="Abrir Dashboard Interativo"
-      src="https://img.shields.io/badge/Abrir%20Dashboard%20Interativo-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
-  </a>
+  <img
+    src="images/dashboard_empresas.png"
+    alt="Dashboard Maiores Empresas do Brasil - Faturamento"
+    width="900"
+  />
 </p>
 
 <p align="center">
-  <a href="SEU_LINK_DASHBOARD" target="_blank">
-    <img 
-      src="images/dashboard_empresas.png"
-      alt="Preview do Dashboard – Maiores Empresas do Brasil"
-      width="900" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Clique no preview para abrir o dashboard interativo em nova aba.</em>
+  <em>
+    Dashboard desenvolvido para análise das 5 maiores empresas do Brasil por faturamento,
+    utilizando dados públicos e foco em visualização executiva e KPIs.
+  </em>
 </p>
 
 ---
