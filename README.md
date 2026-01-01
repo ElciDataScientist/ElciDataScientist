@@ -57,7 +57,7 @@ Extração, organização e consolidação de dados para análises e relatórios
 
 <p align="center">
   <img
-    src="images/dashboard_empresas.png"
+    src="images/Maiores%20Empresas%20do%20Brasil.png"
     alt="Dashboard Maiores Empresas do Brasil - Faturamento"
     width="900"
   />
