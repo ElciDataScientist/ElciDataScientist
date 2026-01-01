@@ -34,7 +34,7 @@ Tenho forte base em Python e SQL, além de experiência na criação de dashboar
 
 <h3>📌 Dashboards e Indicadores</h3>
 <p>
-Criação de dashboards interativos para acompanhamento de KPIs operacionais e financeiros,
+Criação de dashboards para acompanhamento de KPIs operacionais e financeiros,
 apoio à gestão e análise de desempenho.
 </p>
 
@@ -57,7 +57,7 @@ Extração, organização e consolidação de dados para análises e relatórios
 
 <p align="center">
   <img
-    src="images/Maiores%20Empresas%20do%20Brasil.png"
+    src="https://raw.githubusercontent.com/ElciDataScientist/ElciDataScientist/main/images/Maiores%20Empresas%20do%20Brasil.png"
     alt="Dashboard Maiores Empresas do Brasil - Faturamento"
     width="900"
   />
@@ -66,19 +66,9 @@ Extração, organização e consolidação de dados para análises e relatórios
 <p align="center">
   <em>
     Dashboard desenvolvido para análise das 5 maiores empresas do Brasil por faturamento,
-    utilizando dados públicos e foco em visualização executiva e KPIs.
+    com foco em visualização executiva e KPIs.
   </em>
 </p>
-
----
-
-<h2>📈 Atividade no GitHub</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElciDataScientist&show_icons=true&theme=highcontrast&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElciDataScientist&layout=compact&theme=highcontrast&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=ElciDataScientist&theme=highcontrast&hide_border=true" height="150"/>
-</div>
 
 ---
 
