@@ -57,9 +57,9 @@ Extração, organização e consolidação de dados para análises e relatórios
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ElciDataScientist/ElciDataScientist/main/images/Maiores%20Empresas%20do%20Brasil.png"
+    src="https://raw.githubusercontent.com/ElciDataScientist/ElciDataScientist/main/Maiores%20Empresas%20do%20Brasil.png"
     alt="Dashboard Maiores Empresas do Brasil - Faturamento"
-    width="900"
+    width="850"
   />
 </p>
 
